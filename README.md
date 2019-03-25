@@ -1,7 +1,15 @@
 # Use
-Run npm install and then use the script like so:
+1. Clone this repository  
+
+2. Run 
+```
+npm install
+```
+
+3. Use the script like so:
 
 ```
 npm start [URL]
 ```
+
 The above should create a `markdown.md` file in your current directory
